@@ -1,0 +1,24 @@
+Host mike
+    HostName hannouneh.org
+    Port 2200
+
+Host mmike
+    HostName hannouneh.org
+    Port 2200
+    User mike
+
+Host lrm
+     HostName 192.168.1.135
+
+Host gd
+    HostName jlmarks.org
+    User jeremiahmarks
+
+Host bj
+    HostName 192.168.1.108
+
+Host bjw
+    HostName brilliantjenny.com
+
+Host lap
+	HostName 192.168.1.116
